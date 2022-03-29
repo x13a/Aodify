@@ -1,0 +1,12 @@
+Мини приложение для включения Always On Display по требованию.
+Проверено на Google Pixel.
+
+Вы должны выдать разрешение WRITE_SECURE_SETTINGS:
+$ adb shell pm grant me.lucky.notify android.permission.WRITE_SECURE_SETTINGS
+
+Разрешения:
+* NOTIFICATION_LISTENER - включать AOD при получении нового уведомления
+* WRITE_SECURE_SETTINGS - контролировать AOD
+
+Это свободное программное обеспечение с открытым исходным кодом.
+Лицензия: GPL-3

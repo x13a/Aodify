@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="description">Включите Notify чтобы показывать Always On Display по требованию. Вы должны выдать разрешение WRITE_SECURE_SETTINGS.</string>
+    <string name="service_label">AOD</string>
+</resources>
