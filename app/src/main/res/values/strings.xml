@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Notify</string>
-    <string name="description">Turn on Notify to show Always On Display on demand. You have to grant WRITE_SECURE_SETTINGS permission.</string>
+    <string name="app_name">Aodify</string>
+    <string name="description">Turn on Aodify to show Always On Display on demand.</string>
     <string name="service_label">AOD</string>
+    <string name="wss_description">Secure Settings</string>
+    <string name="wss_state_yes">GRANTED</string>
+    <string name="wss_state_no">DENIED</string>
 </resources>

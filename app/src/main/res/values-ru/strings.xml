@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Notify</string>
-    <string name="description">Включите Notify чтобы показывать Always On Display по требованию. Вы должны выдать разрешение WRITE_SECURE_SETTINGS.</string>
+    <string name="app_name">Aodify</string>
+    <string name="description">Включите Aodify чтобы показывать Always On Display по требованию.</string>
     <string name="service_label">AOD</string>
+    <string name="wss_description">Secure Settings</string>
+    <string name="wss_state_yes">РАЗРЕШЕНО</string>
+    <string name="wss_state_no">ЗАПРЕЩЕНО</string>
 </resources>

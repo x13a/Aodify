@@ -2,7 +2,7 @@ Tiny app to show Always On Display on demand.
 Tested with Google Pixel.
 
 You have to grant WRITE_SECURE_SETTINGS permission:
-$ adb shell pm grant me.lucky.notify android.permission.WRITE_SECURE_SETTINGS
+$ adb shell pm grant me.lucky.aodify android.permission.WRITE_SECURE_SETTINGS
 
 Permissions:
 * NOTIFICATION_LISTENER - turn on AOD on new notification

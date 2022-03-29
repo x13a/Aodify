@@ -1,4 +1,4 @@
-package me.lucky.notify
+package me.lucky.aodify
 
 import android.content.Context
 import androidx.core.content.edit

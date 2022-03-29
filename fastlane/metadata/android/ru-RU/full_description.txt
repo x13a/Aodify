@@ -2,7 +2,7 @@
 Проверено на Google Pixel.
 
 Вы должны выдать разрешение WRITE_SECURE_SETTINGS:
-$ adb shell pm grant me.lucky.notify android.permission.WRITE_SECURE_SETTINGS
+$ adb shell pm grant me.lucky.aodify android.permission.WRITE_SECURE_SETTINGS
 
 Разрешения:
 * NOTIFICATION_LISTENER - включать AOD при получении нового уведомления
