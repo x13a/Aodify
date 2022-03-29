@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:name=".Application"
         android:theme="@style/Theme.Notify">
-        
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -16,7 +16,7 @@ Show AOD on demand.
      width="30%"
      height="30%">
 
-Tiny app to show Always On Display on demand.
+Tiny app to show Always On Display on demand.  
 Tested with Google Pixel.
 
 You have to grant `WRITE_SECURE_SETTINGS` permission:
