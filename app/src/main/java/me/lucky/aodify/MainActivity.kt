@@ -22,13 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
-        binding.apply {
-            wssState.text = getText(
-                if (checkSelfPermission(Manifest.permission.WRITE_SECURE_SETTINGS) ==
-                    PackageManager.PERMISSION_GRANTED) R.string.wss_state_yes
-                else R.string.wss_state_no
-            )
-        }
+        update()
     }
 
     private fun init() {
@@ -45,6 +39,16 @@ class MainActivity : AppCompatActivity() {
                 prefs.isServiceEnabled = isChecked
                 dozeManager.setAlwaysOn(if (isChecked) 1 else 0)
             }
+        }
+    }
+
+    private fun update() {
+        binding.apply {
+            wssState.text = getText(
+                if (checkSelfPermission(Manifest.permission.WRITE_SECURE_SETTINGS) ==
+                    PackageManager.PERMISSION_GRANTED) R.string.wss_state_yes
+                else R.string.wss_state_no
+            )
         }
     }
 }
