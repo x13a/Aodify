@@ -13,8 +13,8 @@ Show AOD on demand.
 
 <img
      src="https://raw.githubusercontent.com/x13a/Aodify/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png"
-     width="25%"
-     height="25%">
+     width="30%"
+     height="30%">
 
 Tiny app to show Always On Display on demand.  
 Tested with Google Pixel.
