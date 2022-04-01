@@ -6,15 +6,15 @@ Show AOD on demand.
 <!--      src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" -->
 <!--      alt="Get it on F-Droid" -->
 <!--      height="80">](https://f-droid.org/packages/me.lucky.aodify/) -->
-<!-- [<img -->
-<!--       src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" -->
-<!--       alt="Get it on Google Play" -->
-<!--       height="80">](https://play.google.com/store/apps/details?id=me.lucky.aodify) -->
+[<img
+     src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=me.lucky.aodify)
 
 <img
      src="https://raw.githubusercontent.com/x13a/Aodify/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png"
-     width="30%"
-     height="30%">
+     width="25%"
+     height="25%">
 
 Tiny app to show Always On Display on demand.  
 Tested with Google Pixel.
