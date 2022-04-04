@@ -26,7 +26,7 @@ $ adb shell pm grant me.lucky.aodify android.permission.WRITE_SECURE_SETTINGS
 
 ## Permissions
 
-* NOTIFICATION_LISTENER - turn on AOD on new notification
+* NOTIFICATION_LISTENER - turn on AOD on notification
 * WRITE_SECURE_SETTINGS - control AOD
 
 ## License

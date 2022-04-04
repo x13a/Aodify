@@ -5,7 +5,7 @@
 $ adb shell pm grant me.lucky.aodify android.permission.WRITE_SECURE_SETTINGS
 
 Разрешения:
-* NOTIFICATION_LISTENER - включать AOD при получении нового уведомления
+* NOTIFICATION_LISTENER - включать AOD при получении уведомления
 * WRITE_SECURE_SETTINGS - контролировать AOD
 
 Это свободное программное обеспечение с открытым исходным кодом.
