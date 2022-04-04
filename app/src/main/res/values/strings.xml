@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Aodify</string>
-    <string name="description">Turn on Aodify to show Always On Display on demand.</string>
-    <string name="service_label">AOD</string>
+    <string name="description">Turn on the app to show Always On Display on demand.</string>
+    <string name="notification_listener_label">AOD</string>
+    <string name="tile_label">Aodify</string>
     <string name="wss_description">Secure Settings</string>
-    <string name="wss_state_yes">GRANTED</string>
-    <string name="wss_state_no">DENIED</string>
+    <string name="wss_state_yes">granted</string>
+    <string name="wss_state_no">denied</string>
+    <string name="notification_listener_description">Notification Listener</string>
+    <string name="notification_listener_button">goto</string>
 </resources>
